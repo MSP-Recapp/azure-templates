@@ -9,7 +9,7 @@ This directory contains the Azure Resource Manager (ARM) and Bicep templates for
 Click the button below to deploy the resources directly to your Azure subscription:
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](
-  https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/MSP-Recapp/azure-templates/c509ace52692601ba5c3c6fe4064b7c34feaeeaa/msp-recapp-azure-resources.json
+  https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMSP-Recapp%2Fazure-templates%2Fc509ace52692601ba5c3c6fe4064b7c34feaeeaa%2Fmsp-recapp-azure-resources.json
 )
 
 ## What Gets Deployed
